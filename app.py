@@ -3,7 +3,7 @@ import runpy
 
 PROJECT_APP = (
     Path(__file__).resolve().parent
-    / "Customer Churn & Retention Analysis Project"
+    / "Customer Churn Retention Analysis Project"
     / "app.py"
 )
 
